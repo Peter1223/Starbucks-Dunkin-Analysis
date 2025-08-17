@@ -87,7 +87,7 @@ The data reveals that "opportunity" is not monolithic. The model identified two 
 
 **Recommendation:** A dual-pronged expansion strategy should be employed, targeting both uncontested "Blue Ocean" markets for new customer acquisition and hyper-saturated "Urban Infill" markets for high-volume revenue growth.
 
-![alt text](<Screenshot 2025-08-16 215624.png>)
+![alt text](03_docs/Nat.png)
 
 ### Finding 2: Data-Driven Brand Strategy—"Mass Market vs. Premium Saturation"
 
@@ -98,8 +98,8 @@ The analysis disproves the simple stereotype that Starbucks is exclusively for h
 
 **Recommendation:** Competitors should recognize that while both brands have wide appeal, their core strategic focus differs. Starbucks competes on premium placement, while Dunkin' competes on ubiquitous presence.
 
-![alt text](scatter.png)
-![alt text](box_plot.png)
+![alt text](03_docs/scatter.png)
+![alt text](03_docs/box_plot.png)
 
 ### Finding 3: Clear Geographic Brand Dominance
 
@@ -109,7 +109,7 @@ The competitive landscape is a patchwork of regional strongholds, identifying cl
 * **Starbucks Strongholds:** The West Coast is controlled by Starbucks, with massive density in California and Washington.
 * **The Battlegrounds:** The Midwest, Texas, and Florida emerge as key competitive arenas where neither brand has achieved absolute dominance.
 
-![alt text](<Screenshot 2025-08-16 212629.png>)
+![alt text](03_docs/Dom.png)
 
 ## 4. Conclusion
 This project successfully transformed a personal curiosity into a comprehensive, data-driven market analysis. By engineering a custom web scraper, integrating disparate data sources, and developing sophisticated analytical models, this analysis has provided a clear and actionable strategic framework. The final interactive dashboard—featuring multi-level drill-downs and dynamic controls—serves as a powerful tool for identifying the two distinct types of expansion opportunities ("Blue Ocean" and "Urban Infill") and for understanding the nuanced operational strategies of two of America's most iconic brands.
