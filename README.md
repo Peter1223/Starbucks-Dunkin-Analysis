@@ -66,7 +66,7 @@ With a clean, unified dataset, two key analytical models were developed:
 
 #### **Phase 4: Visualization & Storytelling**
 
-The final, enriched dataset was exported to Tableau Public to create a professional-grade, interactive dashboard. The design focused on a guided user experience:
+The final, enriched dataset was exported to Tableau Public to create a professional grade, interactive dashboard. The design focused on a guided user experience:
 
 * **Multi-Level Drill-Down:** Implemented a key feature allowing users to navigate seamlessly from a high-level **National View** to a detailed, filtered **State View** with a single click on the map.
 * **Interactive Views:** Developed a dual-axis master map to visualize both opportunity score (via color) and market landscape (via custom brand logo shapes) in a single, data-dense view. Added seamless button navigation to switch between this and a dedicated "Brand Dominance" map.
@@ -82,8 +82,8 @@ The analysis yielded several actionable insights, culminating in a strategic fra
 
 The data reveals that "opportunity" is not monolithic. The model identified two distinct, viable paths for growth:
 
-* **"Blue Ocean" Strategy:** The analysis isolated a ranked list of "Priority Untapped Markets"—counties with zero major coffee shops but with strong underlying fundamentals (population and income above the national 25th percentile). These are opportunities for **market capture**, where a new store can fill a void in a promising, uncontested area. The top targets were identified not as remote rural areas, but as wealthy, high-population suburban counties that have been overlooked.
-* **"Urban Infill" Strategy:** Paradoxically, the most saturated markets like Los Angeles County (788 Starbucks) still rank as "Very High" opportunity. The data shows why: even with hundreds of stores, the population-to-store ratio can be as high as **7,000 people per shop**. The opportunity here is not to fill a void, but to capture a slice of an immense, proven, and wealthy economic pie.
+* **"Blue Ocean" Strategy:** The analysis isolated a ranked list of "Priority Untapped Markets"—counties with zero major coffee shops but with strong underlying fundamentals (population and income above the national 25th percentile). These are opportunities for **market capture**, where a new store can fill a void in a promising, uncontested area. The top targets were identified not as remote rural areas, but as wealthy, high population suburban counties that have been overlooked.
+* **"Urban Infill" Strategy:** Paradoxically, the most saturated markets like Los Angeles County (788 Starbucks) still rank as "Very High" opportunity. The data shows why: even with hundreds of stores, the population to store ratio can be as high as **7,000 people per shop**. The opportunity here is not to fill a void, but to capture a slice of an immense, proven, and wealthy economic pie.
 
 **Recommendation:** A dual-pronged expansion strategy should be employed, targeting both uncontested "Blue Ocean" markets for new customer acquisition and hyper-saturated "Urban Infill" markets for high-volume revenue growth.
 
@@ -91,10 +91,10 @@ The data reveals that "opportunity" is not monolithic. The model identified two 
 
 ### Finding 2: Data-Driven Brand Strategy—"Mass Market vs. Premium Saturation"
 
-The analysis disproves the simple stereotype that Starbucks is exclusively for high-income areas and reveals the nuanced truth:
+The analysis disproves the simple stereotype that Starbucks is exclusively for high income areas and reveals the nuanced truth:
 
-* **Dunkin' (Mass-Market Saturation):** With an average county income of ~$75k, Dunkin' employs a mass-market strategy, maintaining a heavy footprint across a vast range of lower-to-upper-middle-income counties.
-* **Starbucks (Premium Saturation):** With a similar average county income of ~$72k, Starbucks' strategy is different. The data shows they largely avoid the lowest-income markets and concentrate their densest store footprints in wealthier suburban and urban counties.
+* **Dunkin' (Mass-Market Saturation):** With an average county income of ~$75k, Dunkin' employs a mass market strategy, maintaining a heavy footprint across a vast range of lower to upper middle income counties.
+* **Starbucks (Premium Saturation):** With a similar average county income of ~$72k, Starbucks' strategy is different. The data shows they largely avoid the lowest income markets and concentrate their densest store footprints in wealthier suburban and urban counties.
 
 **Recommendation:** Competitors should recognize that while both brands have wide appeal, their core strategic focus differs. Starbucks competes on premium placement, while Dunkin' competes on ubiquitous presence.
 
@@ -112,4 +112,4 @@ The competitive landscape is a patchwork of regional strongholds, identifying cl
 ![alt text](03_docs/Dom.png)
 
 ## 4. Conclusion
-This project successfully transformed a personal curiosity into a comprehensive, data-driven market analysis. By engineering a custom web scraper, integrating disparate data sources, and developing sophisticated analytical models, this analysis has provided a clear and actionable strategic framework. The final interactive dashboard—featuring multi-level drill-downs and dynamic controls—serves as a powerful tool for identifying the two distinct types of expansion opportunities ("Blue Ocean" and "Urban Infill") and for understanding the nuanced operational strategies of two of America's most iconic brands.
+This project successfully transformed a personal curiosity into a comprehensive, data-driven market analysis. By engineering a custom web scraper, integrating disparate data sources, and developing sophisticated analytical models, this analysis has provided a clear and actionable strategic framework. The final interactive dashboard—featuring multi-level drill downs and dynamic controls serves as a powerful tool for identifying the two distinct types of expansion opportunities ("Blue Ocean" and "Urban Infill") and for understanding the nuanced operational strategies of two of America's most iconic brands.
